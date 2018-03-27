@@ -5,7 +5,7 @@
 How to write a linus driver and push out a patch to current machines.
 
 -Background on writing Linux drivers/pushing a patch
-Already started, working with a unix admin who as also never written one. making some progress, but its slow.
+Already started, making some progress, but its slow.
 
 -Assumptions
 This is gonna be difficult, but since as long as I try and make progress, should be fine.
