@@ -1,0 +1,39 @@
+# Final-Project-Research-Plan
+
+-Thesis
+
+How to write a linus driver and push out a patch to current machines.
+
+-Background on writing Linux drivers/pushing a patch
+Already started, working with a unix admin who as also never written one. making some progress, but its slow.
+
+-Assumptions
+This is gonna be difficult, but since as long as I try and make progress, should be fine.
+
+-Milestones
+
+1. Is this possible?
+2. Is this Practical?
+3.Collecting required parts and information
+4.???
+5.Completion of project
+
+-Difficulty
+
+High
+
+-Security Issues
+
+Should be minimal provided I do things correctly.
+
+-Hardware required
+
+At least working 2 working computers with sufficent space.
+A USB drive with sufficent space.
+
+-Software required
+
+2 versions of ubuntu that is current.
+Software to make USB bootable.
+Might need IPs of computers to push the patch to if need be.
+Other various packages to make this possible.
