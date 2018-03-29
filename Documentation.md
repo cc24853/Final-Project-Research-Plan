@@ -2,10 +2,10 @@
 
 -Thesis
 
-How to write a linus driver and push out a patch to current machines.
+How to write a linux driver
 
--Background on writing Linux drivers/pushing a patch
-Already started, making some progress, but its slow.
+-Background on writing Linux drivers
+Already started, making slow progress. Aside form that, nothing at all.
 
 -Assumptions
 This is gonna be difficult, but since as long as I try and make progress, should be fine.
@@ -35,6 +35,5 @@ A USB drive with sufficent space.
 
 2 versions of ubuntu that is current.
 Software to make USB bootable.
-Might need IPs of computers to push the patch to if need be.
 Other various packages to make this possible.
 
